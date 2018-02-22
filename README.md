@@ -11,6 +11,7 @@ Usage: filelock.sh { encrypt | decrypt } \<filename\>
 
 ## Example Usage
 
+    $ chmod -x ./filelock.sh
     $ ls
       myfile.txt
     $ ./filelock.sh encrypt ./myfile.txt
