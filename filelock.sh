@@ -18,9 +18,9 @@ usage () {
     echo "#                                                                  #"
     echo "# Usage: file_lock.sh { encrypt | decrypt } <filename>             #"
     echo "#                                                                  #"
-    echo "# mode \"encrypt\": pass as mode when you wish to encrypt a file.    #"
-    echo "# mode \"decrypt\": pass as mode when you wish to decrypt a file.    #"
-    echo "# help \"-h\": pass as the sole argument to see this banner.         #"
+    echo "# mode 'encrypt': pass as mode when you wish to encrypt a file.    #"
+    echo "# mode 'decrypt': pass as mode when you wish to decrypt a file.    #"
+    echo "# help '-h': pass as the sole argument to see this banner.         #"
     echo "#                                                                  #"
     echo "####################################################################"
     echo
